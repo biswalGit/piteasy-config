@@ -1,11 +1,9 @@
-build:
-  version: "2.0"
-
-accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
-  contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+account:
+  accountno: 12345-wa
+  type: saving-qa
+  accountinfo:
+    name: pit-qa
+    email: qa@123
   onCallSupport:
-    - (666) 265-3765
-    - (666) 734-8371
+    -(91)1234567890
+    -(91)0987654321

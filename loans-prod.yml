@@ -1,11 +1,9 @@
-build:
-  version: "1.0"
-
-loans:
-  message: "Welcome to EazyBank loans related prod APIs "
-  contactDetails:
-    name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+loan:
+  loanno: 12345678-prod
+  type: loan-prod
+  loaninfo:
+    name: pit-prod
+    email: prod@123
   onCallSupport:
-    - (723) 656-8709
-    - (156) 342-0956
+    -(91)1234567891
+    -(91)0987654322

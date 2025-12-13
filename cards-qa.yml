@@ -1,11 +1,9 @@
-build:
-  version: "2.0"
-
-cards:
-  message: "Welcome to EazyBank cards related QA APIs "
-  contactDetails:
-    name: "Cherryl Pankaj - QA Lead"
-    email: "cherryl@eazybank.com"
+card:
+  cardno: 12345-qa
+  type: creditcard-qa
+  cardinfo:
+    name: pit-qa
+    email: qa@123
   onCallSupport:
-    - (310) 875-4367
-    - (201) 236-1267
+    -(91)1234567890
+    -(91)0987654321

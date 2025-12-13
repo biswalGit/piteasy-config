@@ -1,11 +1,9 @@
-build:
-  version: "3.0"
-
-accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
-  contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
+account:
+  accountno: 12345-default
+  type: saving-default
+  accountinfo:
+    name: pit-default
+    email: default@123
   onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
+    -(91)1234567890
+    -(91)0987654321
