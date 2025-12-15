@@ -1,5 +1,5 @@
 account:
-  accountno: 12345-production-git
+  accountno: 12345-prod-git
   type: saving-production-git
   accountinfo:
     name: pit-production
@@ -8,4 +8,5 @@ account:
     -(91)1234567890
 
     -(91)0987654321
+
 
