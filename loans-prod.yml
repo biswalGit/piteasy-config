@@ -1,11 +1,12 @@
 loan:
-  loanno: 12345678-production-git
-  type: loan-production-git
+  loanno: 12345678-prod-git
+  type: loan-prod-git
   loaninfo:
-    name: pit-production
-    email: production@123
+    name: pit-prod
+    email: prod@123
   onCallSupport:
     -(91)1234567891
 
     -(91)0987654322
+
 
