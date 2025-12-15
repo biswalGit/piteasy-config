@@ -1,9 +1,10 @@
 card:
-  cardno: 12345
-  type: creditcard-dev
+  cardno: 12345-git
+  type: creditcard-dev-git
   cardinfo:
     name: pit-dev
     email: dev@123
   onCallSupport:
     -(91)1234567890
+
     -(91)0987654321
