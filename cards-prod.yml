@@ -1,5 +1,5 @@
 card:
-  cardno: 12345678-prod-git
+  cardno: 12345678-production-git
   type: prodcreditcard-prod-git
   cardinfo:
     name: pit-prod
@@ -8,5 +8,6 @@ card:
     -(91)1234567891
 
     -(91)0987654322
+
 
 
