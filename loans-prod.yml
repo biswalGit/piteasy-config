@@ -1,5 +1,5 @@
 loan:
-  loanno: 12345678-prod-git
+  loanno: 12345678-production-git
   type: loan-prod-git
   loaninfo:
     name: pit-prod
@@ -8,5 +8,6 @@ loan:
     -(91)1234567891
 
     -(91)0987654322
+
 
 
