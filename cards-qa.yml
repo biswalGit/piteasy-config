@@ -1,9 +1,10 @@
 card:
-  cardno: 12345-qa
-  type: creditcard-qa
+  cardno: 12345-qa-git
+  type: creditcard-qa-git
   cardinfo:
     name: pit-qa
     email: qa@123
   onCallSupport:
     -(91)1234567890
+
     -(91)0987654321
