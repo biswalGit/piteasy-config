@@ -1,10 +1,11 @@
 account:
-  accountno: 12345-prod-git
-  type: saving-prod-git
+  accountno: 12345-production-git
+  type: saving-production-git
   accountinfo:
-    name: pit-prod
+    name: pit-production
     email: prod@123
   onCallSupport:
     -(91)1234567890
 
     -(91)0987654321
+
