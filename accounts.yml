@@ -1,10 +1,11 @@
 account:
-  accountno: 12345-default-git
-  type: saving-default-git
+  accountno: 12345-df-git
+  type: saving-df-git
   accountinfo:
-    name: pit-default
-    email: default@123
+    name: pit-df
+    email: df@123
   onCallSupport:
     -(91)1234567890
 
     -(91)0987654321
+
